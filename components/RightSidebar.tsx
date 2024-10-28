@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const RightSidebar = () => {
   return (
-    <div>RightSidebar</div>
-  )
-}
+    <section className="right_sidebar text-white-1">
+      <h1>RightSidebar</h1>
+    </section>
+  );
+};
 
-export default RightSidebar
+export default RightSidebar;
